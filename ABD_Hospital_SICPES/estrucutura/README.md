@@ -1,0 +1,17 @@
+# Estrucutura ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+En este apartado se encontraran las archivos correspondientes de la carpeta estructura de la Practica 05.
+
+>| - ABD_Hospital_SICPES <br>
+>&nbsp;&nbsp;| - **Estructura**<br>
+>|- Pruebas<br>
+>|- Respaldos<br>
+>|- Rutinas<br>
+
+
+|Integrante|Contacto|Rol|Observaciones|
+|------------|--------|---|---|
+|Jose Francisco Flores Amador|[@JFFA25](https://github.com/JFFA25)|Developer - Encargdo de Servicios Medicos|✅Revisado y aprobado.|
+|Edgar Cabrera Velázquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Developer - Encargdo de Servicios Medicos|😔No ha revisado.|
+|Edwin Hernández Campos |[@Edwinhdzcm](https://github.com/Edwinhdzcm)|Developer - Encargdo de Servicios|😔No ha revisado.|
+|Giovany Raul Pazos Cruz|[@giova0412](https://github.com/giova0412)|Developer - Encargdo de Servicios|😔No ha revisado.|
