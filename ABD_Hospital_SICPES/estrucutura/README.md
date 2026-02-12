@@ -13,5 +13,5 @@ En este apartado se encontraran las archivos correspondientes de la carpeta estr
 |------------|--------|---|---|
 |Jose Francisco Flores Amador|[@JFFA25](https://github.com/JFFA25)|Developer - Encargdo de Servicios Medicos|✅Revisado y aprobado.|
 |Edgar Cabrera Velázquez |[@Edgar-Cbr](https://github.com/Edgar-Cbr)|Developer - Encargdo de Servicios Medicos|😔No ha revisado.|
-|Edwin Hernández Campos |[@Edwinhdzcm](https://github.com/Edwinhdzcm)|Developer - Encargdo de Servicios|😔No ha revisado.|
+|Edwin Hernández Campos |[@Edwinhdzcm](https://github.com/Edwinhdzcm)|Developer - Encargdo de Servicios|✅Revisado y aprobado.|
 |Giovany Raul Pazos Cruz|[@giova0412](https://github.com/giova0412)|Developer - Encargdo de Servicios|😔No ha revisado.|
